@@ -98,4 +98,3 @@ function onGalleryClick (event) {
   
 modal.show()
 }
-
